@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">Just a full-stack web developer.</h3>
 
-- 🔭 I’m currently working on [CollaborEats](https://github.com/JoeMics/CollaborEats)
+- 🔭 I’m currently working on [Scales](https://github.com/JoeMics/scales)
 
 - 🌱 I’m currently learning **Next.js**
 
