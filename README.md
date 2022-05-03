@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">Just a full-stack web developer.</h3>
 
-- 🔭 I’m currently working on [Scales](https://github.com/JoeMics/scales)
+- 🔭 I’m currently working for [BC Cancer](https://github.com/molonc)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nuxt.js**
 
 - 📫 How to reach me **josephmicla@gmail.com**
 
